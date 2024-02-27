@@ -7,10 +7,10 @@ main:
     url: /#publications    
     
   - title: "Awards"
-    url: https://chutiiing.github.io/chuting.github.io/#awards
+    url: /#awards
         
   - title: "Services"
-    url: https://chutiiing.github.io/chuting.github.io/#professional-services
+    url: /#professional-services
     
   - title: "Teaching"
-    url: https://chutiiing.github.io/chuting.github.io/#teaching
+    url: /#teaching
