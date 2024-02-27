@@ -1,22 +1,19 @@
 # main links links
 main:
+  - title: "About"
+    url: /#about
+
+  - title: "Research"
+    url: /#research-interests   
+
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /#publications    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Awards"
+    url: https://chutiiing.github.io/chuting.github.io/#awards
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Services"
+    url: https://chutiiing.github.io/chuting.github.io/#professional-services
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Teaching"
+    url: https://chutiiing.github.io/chuting.github.io/#teaching
