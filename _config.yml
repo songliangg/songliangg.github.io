@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ChutingLin"
+title                    : "Song Liang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "ChutingLin"
+  name             : "Song Liang"
   pronouns         : # example: "she/her"  
   bio              : "  "
   location         : "Xiamen University"
