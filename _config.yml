@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "songliang[at]xmu.edu.cn"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
