@@ -76,6 +76,6 @@ __Liang Song__, Ronjiang Pan*. A 3D Virtual Experiment Framework Based on X3D an
 # Awards
 - Quantum Computing Programming Competition of CCF Si'nan Cup, Finalist, 2022.5-2022.6
 - High level Talent of Xiamen, Class C, 2021.
-- The 15th Teaching Skills Competition for Young Teachers, 2nd prize，2020.
+- The 15th Teaching Skills Competition for Young Teachers of Xiamen University, 2nd prize，2020.
 - High level Overseas Returnee of Xiamen, 2019.
-- National Scholarship for PhD Student, 2015.
+- National Scholarship of China for PhD Student, 2015.
