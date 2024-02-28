@@ -16,7 +16,7 @@ author_profile: true
 
 # Research Interests
 
-:smile Visual Reality 
+:smile Virtual Reality 
 
 # Publications
 
