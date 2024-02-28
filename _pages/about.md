@@ -1,9 +1,8 @@
 ---
 permalink: /
-title: "Education"
+title: "About me"
 author_profile: true
 ---
-
 2012.9~2018.9. _PhD, Computer Science and Technology_. Harbin Institute of Technology at Shenzhen, China.
 
 2015.10~2017.10. _Joint PhD Student, Computer Science_. The University of Texas at Dallas, USA.
