@@ -13,7 +13,7 @@ author_profile: true
 
 # Research Interests
 
-__Virtual Reality__ 🌈_Welcome undergraduates and graduates to join our group!_
+__Virtual Reality__ 🌈 _Welcome undergraduates and graduates to join our group!_
 
 # Publications
 
