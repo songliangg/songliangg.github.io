@@ -4,15 +4,13 @@ title: "About me"
 author_profile: true
 ---
 
-Assistant Professor，Xiamen University, Department of Software Engineering, 2018.12~Now，
+2012.9~2018.9, PhD, Harbin Institute of Technology at Shenzhen，Computer Science and Technology.
 
-PhD. Harbin Institute of Technology at Shenzhen，Computer Science and Technology, 2012.9~2018.9.
+2015.10~2017.10, Joint PhD Student, The University of Texas at Dallas, Computer Science.
 
-Joint PhD Student, The University of Texas at Dallas, Computer Science, 2015.10~2017.10.
+2008.9~2011.6, Master，Shandong University, Computer Science and Technology.
 
-Master，Shandong University, Computer Science and Technology, 2008.9~2011.6.
-
-Bachelor, Harbin Institute of Technology at Harbin，Software Engineering, 2003.9-2007.7.
+2003.9-2007.7, Bachelor, Harbin Institute of Technology at Harbin，Software Engineering.
 
 # Research Interests
 
