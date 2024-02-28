@@ -24,9 +24,9 @@ author:
   avatar           : # "foo-bar-identity-th.jpg.png"
   name             : "Liang Song"
   pronouns         : "Assistant Professor"  
-  bio              : "Department of Software Engineering, School of Informatics"
-  location         : "Xiamen, China"
-  employer         : "Xiamen University"
+  bio              : "Department of Software Engineering, School of Informatics, Xiamen University"
+  location         : "China"
+  employer         : # " "
   uri              : # songliang.xmu.edu.cn
   email            : "songliang.xmu.edu.cn" 
 
