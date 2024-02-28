@@ -10,7 +10,7 @@ author_profile: true
 
 2008.9~2011.6 Master, Computer Science and Technology. Shandong University, China.
 
-2003.9~22007.7 Bachelor, Software Engineering. Harbin Institute of Technology at Harbin, China.
+2003.9~2007.7 Bachelor, Software Engineering. Harbin Institute of Technology at Harbin, China.
 
 # Research Interests
 
