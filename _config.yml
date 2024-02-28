@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "foo-bar-identity-th.jpg.png"
   name             : "Liang Song"
-  pronouns         : example: "Assistant Professor"  
+  pronouns         : # example: "Assistant Professor"  
   bio              : "School of Informatics"
   location         : "China"
   employer         : "Xiamen University"
