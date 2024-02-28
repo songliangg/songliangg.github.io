@@ -16,9 +16,11 @@ Bachelor, Harbin Institute of Technology at Harbin，Software Engineering, 2003.
 
 # Research Interests
 
-Visual Reality 
+:smile Visual Reality 
 
 # Publications
+
+Chunyan Liu, Chonglin Gu*, Liang Song. TWS-based Path Planning of Multi-AGVs for Logistics Center Auto-Sorting. CCF Transactions on Pervasive Computing and Interaction, Accepted, 2023.
 
 Shuwen Niu, Jingjing Tang, Xingyao Lin, Haoyang Lv, Liang Song*, Zihao Jian. Multi-view Coherence for Outdoor Reflective Surfaces. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
 
@@ -50,17 +52,17 @@ Liang Song, Hao Gu, Hejiao Huang. A lower bound for the adaptive two-echelon cap
 
 Liang Song, Hejiao Huang, Hongwei Du. Approximation schemes for Euclidean vehicle routing problems with time windows. Journal of Combinatorial Optimization, 2016, 32(4): 1217-1231.
 
-15.	Xiaohan He, Xiaoli Zeng, Liang Song, Hejiao Huang, Hongwei Du. Solving Dynamic Vehicle Routing Problem with Soft Time Window by iLNS and hPSO. The 10th Annual International Conference on Combinatorial Optimization and Applications, Hong Kong, China, 2016: 702-709.
+Xiaohan He, Xiaoli Zeng, Liang Song, Hejiao Huang, Hongwei Du. Solving Dynamic Vehicle Routing Problem with Soft Time Window by iLNS and hPSO. The 10th Annual International Conference on Combinatorial Optimization and Applications, Hong Kong, China, 2016: 702-709.
 
-16.	Dan Yang, Xiaohan He, Liang Song, Hejiao Huang, Hongwei Du. A Hybrid Large Neighborhood Search for Dynamic Vehicle Routing Problem with Time Deadline. The 9th Annual International Conference on Combinatorial Optimization and Applications, Houston, Texas, USA, 2015: 307-318.
+Dan Yang, Xiaohan He, Liang Song, Hejiao Huang, Hongwei Du. A Hybrid Large Neighborhood Search for Dynamic Vehicle Routing Problem with Time Deadline. The 9th Annual International Conference on Combinatorial Optimization and Applications, Houston, Texas, USA, 2015: 307-318.
 
-17.	Liang Song, Haibin Chen, Hao Gu, Hejiao Huang, Hongwei Du. Set covering in fuel-considered vehicle routing problems. Theoretical Computer Science, 2015, 607(SI): 471-479.
+Liang Song, Haibin Chen, Hao Gu, Hejiao Huang, Hongwei Du. Set covering in fuel-considered vehicle routing problems. Theoretical Computer Science, 2015, 607(SI): 471-479.
 
-18.	Liang Song, Hejiao Huang, Hongwei Du. A Quasi-polynomial Time Approximation Scheme for Euclidean CVRPTW. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 66-73.
+Liang Song, Hejiao Huang, Hongwei Du. A Quasi-polynomial Time Approximation Scheme for Euclidean CVRPTW. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 66-73.
 
-19.	Hao Gu, Liang Song, Hejiao Huang, Hongwei Du. A Bicriteria Approximation Algorithm for DVRP with Time Windows. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 231-238.
+Hao Gu, Liang Song, Hejiao Huang, Hongwei Du. A Bicriteria Approximation Algorithm for DVRP with Time Windows. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 231-238.
 
-20.	Liang Song, Ronjiang Pan. A 3D Virtual Experiment Framework Based on X3D and ActiveX. International Conference on Audio, Language and Image Processing, Shanghai, China, 2010: 1035-1039.
+Liang Song, Ronjiang Pan. A 3D Virtual Experiment Framework Based on X3D and ActiveX. International Conference on Audio, Language and Image Processing, Shanghai, China, 2010: 1035-1039.
 
 # Selected Projects
 - "3D Outdoor Scence Reconstruction Based on UAV Vision", Natural Science Foundation Project of Xiamen, 2023.6-2025.6
@@ -75,4 +77,5 @@ Liang Song, Hejiao Huang, Hongwei Du. Approximation schemes for Euclidean vehicl
 - Quantum Computing Programming Competition of CCF Si'nan Cup, Finalist, 2022.5-2022.6
 - High level Talent of Xiamen, Class C, 2021.
 - The 15th Teaching Skills Competition for Young Teachers, 2nd prize，2020.
-- High level Overseas Returnee of Xiamen, 2019
+- High level Overseas Returnee of Xiamen, 2019.
+- National Scholarship for PhD Student, 2015.
