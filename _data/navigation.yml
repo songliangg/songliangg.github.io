@@ -7,7 +7,7 @@ main:
     url: /#publications    
       
   - title: "Selected Projects"
-    url: /#projects
+    url: /#selected-projects
     
   - title: "Teaching"
     url: /#teaching
