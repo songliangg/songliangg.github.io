@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "foo-bar-identity-th.jpg.png"
   name             : "Liang Song"
   pronouns         : example: "Assistant Professor"  
   bio              : "School of Informatics"
