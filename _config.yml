@@ -24,10 +24,10 @@ author:
   avatar           : # "foo-bar-identity-th.jpg.png"
   name             : "Liang Song"
   pronouns         : "Assistant Professor"  
-  bio              : "School of Informatics"
+  bio              : "DDD \n School of Informatics"
   location         : "China"
   employer         : "Xiamen University"
-  uri              : songliang.xmu.edu.cn
+  uri              : # songliang.xmu.edu.cn
   email            : "songliang.xmu.edu.cn" 
 
   # Academic websites
