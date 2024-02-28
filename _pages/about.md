@@ -1,10 +1,8 @@
 ---
 permalink: /
-title: "About me"
+title: "Education"
 author_profile: true
 ---
-
-2018.12~Now, Assistant Professor, School of Infomatics, Xiamen Univesity.
 
 2012.9~2018.9, PhD, Computer Science and Technology, Harbin Institute of Technology at Shenzhen.
 
@@ -16,7 +14,7 @@ author_profile: true
 
 # Research Interests
 
-:smile Virtual Reality 
+:smile Virtual Reality (Welcome undergraduates and graduates to join our group !)
 
 # Publications
 
