@@ -64,7 +64,7 @@ Hao Gu, Liang Song, Hejiao Huang, Hongwei Du. A Bicriteria Approximation Algorit
 
 Liang Song, Ronjiang Pan. A 3D Virtual Experiment Framework Based on X3D and ActiveX. International Conference on Audio, Language and Image Processing, Shanghai, China, 2010: 1035-1039.
 
-# Projects
+# Selected Projects
 - "3D Outdoor Scence Reconstruction Based on UAV Vision", Natural Science Foundation Project of Xiamen, 2023.6-2025.6
 - "Group Vision and Route Planning for Logistics UAVs", Xiamen University President Foundation Project, 2019.1-2020.1
 - "Logistics-Oriented Research of Vechicle Routing Problem and System Implementation", Natural Science Foundation Project of China, 2014.6-2017.12
