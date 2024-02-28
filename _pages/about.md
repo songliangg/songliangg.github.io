@@ -4,13 +4,13 @@ title: "Education"
 author_profile: true
 ---
 
-2012.9~2018.9, PhD, Computer Science and Technology, Harbin Institute of Technology at Shenzhen, China.
+2012.9~2018.9: PhD, Computer Science and Technology, Harbin Institute of Technology at Shenzhen, China.
 
-2015.10~2017.10, Joint PhD Student, Computer Science, The University of Texas at Dallas, USA.
+2015.10~2017.10: Joint PhD Student, Computer Science, The University of Texas at Dallas, USA.
 
-2008.9~2011.6, Master, Computer Science and Technology, Shandong University, China.
+2008.9~2011.6: Master, Computer Science and Technology, Shandong University, China.
 
-2003.9-2007.7, Bachelor, Software Engineering, Harbin Institute of Technology at Harbin, China.
+2003.9-2007.7: Bachelor, Software Engineering, Harbin Institute of Technology at Harbin, China.
 
 # Research Interests
 
