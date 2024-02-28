@@ -27,7 +27,7 @@ author:
   bio              : "Department of Software Engineering, School of Informatics, Xiamen University"
   location         : "China"
   employer         : # " "
-  uri              : # songliang.xmu.edu.cn
+  uri              : url
   email            : "songliang.xmu.edu.cn" 
 
   # Academic websites
