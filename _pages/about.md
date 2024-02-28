@@ -42,27 +42,27 @@ Shuaiyang Cheng, Xing Gao, __Liang Song*__, Jianbing Xiahou. Audio-Visual Salien
 
 Tian Cai, Xing Gao, __Liang Song*__, Minghong Liao. The multi-task learning with an application of Pareto improvement. International Conference on Computing and Data Science, Stanford, USA, 2021.
 
-__Liang Song__, Haibin Chen, Hejiao Huang, Hongwei Du. Multi-echelon Vehicle Routing Problem in Sensor-Cloud Architecture with Mobile Sinks. The 6th International Symposium on Sensor-Cloud Systems, Nanjing, China, 2020.
+__Liang Song__, Haibin Chen, Hejiao Huang*, Hongwei Du. Multi-echelon Vehicle Routing Problem in Sensor-Cloud Architecture with Mobile Sinks. The 6th International Symposium on Sensor-Cloud Systems, Nanjing, China, 2020.
 
-__Liang Song__, Chunyan Liu, Hejiao Huang, Hongwei Du, Xiaohua Jia. Minimum Connected Dominating Set Under Routing Cost Constraint in Wireless Sensor Networks With Different Transmission Ranges. IEEE/ACM Transactions on Networking, 2019, 27(2):546-559.
+__Liang Song__, Chunyan Liu, Hejiao Huang*, Hongwei Du, Xiaohua Jia. Minimum Connected Dominating Set Under Routing Cost Constraint in Wireless Sensor Networks With Different Transmission Ranges. IEEE/ACM Transactions on Networking, 2019, 27(2):546-559.
 
-__Liang Song__, Hejiao Huang. The Euclidean Vehicle Routing Problem with Multiple Depots and Time Windows. The 11th Annual International Conference on Combinatorial Optimization and Applications, Shanghai, China, 2017: 449-456.
+__Liang Song__, Hejiao Huang*. The Euclidean Vehicle Routing Problem with Multiple Depots and Time Windows. The 11th Annual International Conference on Combinatorial Optimization and Applications, Shanghai, China, 2017: 449-456.
 
-__Liang Song__, Hao Gu, Hejiao Huang. A lower bound for the adaptive two-echelon capacitated vehicle routing problem. Journal of Combinatorial Optimization, 2017, 33(4): 1145-1167.
+__Liang Song__, Hao Gu, Hejiao Huang*. A lower bound for the adaptive two-echelon capacitated vehicle routing problem. Journal of Combinatorial Optimization, 2017, 33(4): 1145-1167.
 
-__Liang Song__, Hejiao Huang, Hongwei Du. Approximation schemes for Euclidean vehicle routing problems with time windows. Journal of Combinatorial Optimization, 2016, 32(4): 1217-1231.
+__Liang Song__, Hejiao Huang*, Hongwei Du. Approximation schemes for Euclidean vehicle routing problems with time windows. Journal of Combinatorial Optimization, 2016, 32(4): 1217-1231.
 
-Xiaohan He, Xiaoli Zeng, __Liang Song__, Hejiao Huang, Hongwei Du. Solving Dynamic Vehicle Routing Problem with Soft Time Window by iLNS and hPSO. The 10th Annual International Conference on Combinatorial Optimization and Applications, Hong Kong, China, 2016: 702-709.
+Xiaohan He, Xiaoli Zeng, __Liang Song__, Hejiao Huang*, Hongwei Du. Solving Dynamic Vehicle Routing Problem with Soft Time Window by iLNS and hPSO. The 10th Annual International Conference on Combinatorial Optimization and Applications, Hong Kong, China, 2016: 702-709.
 
-Dan Yang, Xiaohan He, __Liang Song__, Hejiao Huang, Hongwei Du. A Hybrid Large Neighborhood Search for Dynamic Vehicle Routing Problem with Time Deadline. The 9th Annual International Conference on Combinatorial Optimization and Applications, Houston, Texas, USA, 2015: 307-318.
+Dan Yang, Xiaohan He, __Liang Song__, Hejiao Huang*, Hongwei Du. A Hybrid Large Neighborhood Search for Dynamic Vehicle Routing Problem with Time Deadline. The 9th Annual International Conference on Combinatorial Optimization and Applications, Houston, Texas, USA, 2015: 307-318.
 
-__Liang Song__, Haibin Chen, Hao Gu, Hejiao Huang, Hongwei Du. Set covering in fuel-considered vehicle routing problems. Theoretical Computer Science, 2015, 607(SI): 471-479.
+__Liang Song__, Haibin Chen, Hao Gu, Hejiao Huang*, Hongwei Du. Set covering in fuel-considered vehicle routing problems. Theoretical Computer Science, 2015, 607(SI): 471-479.
 
-__Liang Song__, Hejiao Huang, Hongwei Du. A Quasi-polynomial Time Approximation Scheme for Euclidean CVRPTW. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 66-73.
+__Liang Song__, Hejiao Huang*, Hongwei Du. A Quasi-polynomial Time Approximation Scheme for Euclidean CVRPTW. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 66-73.
 
-Hao Gu, __Liang Song__, Hejiao Huang, Hongwei Du. A Bicriteria Approximation Algorithm for DVRP with Time Windows. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 231-238.
+Hao Gu, __Liang Song__, Hejiao Huang*, Hongwei Du. A Bicriteria Approximation Algorithm for DVRP with Time Windows. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 231-238.
 
-__Liang Song__, Ronjiang Pan. A 3D Virtual Experiment Framework Based on X3D and ActiveX. International Conference on Audio, Language and Image Processing, Shanghai, China, 2010: 1035-1039.
+__Liang Song__, Ronjiang Pan*. A 3D Virtual Experiment Framework Based on X3D and ActiveX. International Conference on Audio, Language and Image Processing, Shanghai, China, 2010: 1035-1039.
 
 # Selected Projects
 - "3D Outdoor Scence Reconstruction Based on UAV Vision", Natural Science Foundation Project of Xiamen, 2023.6-2025.6
