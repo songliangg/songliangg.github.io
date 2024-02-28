@@ -17,9 +17,9 @@ __Virtual Reality__ 🌈 _Welcome undergraduates and graduates to join our group
 
 # Publications
 
-Chunyan Liu, Chonglin Gu*, __Liang Song__. TWS-based Path Planning of Multi-AGVs for Logistics Center Auto-Sorting. CCF Transactions on Pervasive Computing and Interaction, Accepted, 2023.
+Chunyan Liu, Chonglin Gu*, __Liang Song__. TWS-based Path Planning of Multi-AGVs for Logistics Center Auto-Sorting. _CCF Transactions on Pervasive Computing and Interaction_, Accepted, 2023.
 
-Shuwen Niu, Jingjing Tang, Xingyao Lin, Haoyang Lv, __Liang Song*__, Zihao Jian. Multi-view Coherence for Outdoor Reflective Surfaces. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
+Shuwen Niu, Jingjing Tang, Xingyao Lin, Haoyang Lv, __Liang Song*__, Zihao Jian. Multi-view Coherence for Outdoor Reflective Surfaces. _International Conference on Intelligent Computing_, Zhengzhou, China, 2023.
 
 Yongxuan Lai, Pengxuan Yuan, __Liang Song*__, Feng He. Resource Optimization for Link Failure Recovery of Software-Defined Optical Network. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
 
