@@ -24,45 +24,45 @@ Chunyan Liu, Chonglin Gu*, __Liang Song__. TWS-based Path Planning of Multi-AGVs
 
 Shuwen Niu, Jingjing Tang, Xingyao Lin, Haoyang Lv, __Liang Song*__, Zihao Jian. Multi-view Coherence for Outdoor Reflective Surfaces. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
 
-Yongxuan Lai, Pengxuan Yuan, Liang Song*, Feng He. Resource Optimization for Link Failure Recovery of Software-Defined Optical Network. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
+Yongxuan Lai, Pengxuan Yuan, __Liang Song*__, Feng He. Resource Optimization for Link Failure Recovery of Software-Defined Optical Network. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
 
-Pengxuan Yuan, Yongxuan Lai, Liang Song*, Feng He. RWA Optimization of CDC-ROADMs Based Network with Limited OSNR. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
+Pengxuan Yuan, Yongxuan Lai, __Liang Song*__, Feng He. RWA Optimization of CDC-ROADMs Based Network with Limited OSNR. International Conference on Intelligent Computing, Zhengzhou, China, 2023.
 
-Honghao Wu, Yongxuan Lai*, Zihao Jian, Liang Song, Fan Yang. Nearest Memory Augmented Feature Reconstruction for Unified Anomaly Detection. International Conference on Neural Information Processing, Changsha, China, 2023.
+Honghao Wu, Yongxuan Lai*, Zihao Jian, __Liang Song__, Fan Yang. Nearest Memory Augmented Feature Reconstruction for Unified Anomaly Detection. International Conference on Neural Information Processing, Changsha, China, 2023.
 
-Jingjing Tang, Liang Song*, Jiabao Zeng, Juncong Lin. The Virtual Camera Path in 3D Animation. International Conference on Intelligent Computing, Shenzhen, China, 2021.
+Jingjing Tang, __Liang Song*__, Jiabao Zeng, Juncong Lin. The Virtual Camera Path in 3D Animation. International Conference on Intelligent Computing, Shenzhen, China, 2021.
 
-Yajing Wang, Liang Song*. Virtual Piano System Based on Monocular Camera. International Conference on Intelligent Computing, Shenzhen, China, 2021.
+Yajing Wang, __Liang Song*__. Virtual Piano System Based on Monocular Camera. International Conference on Intelligent Computing, Shenzhen, China, 2021.
 
-Shuaiyang Cheng, Liang Song*, Jingjing Tang, Shihui Guo. Audio-Visual Salient Object Detection. International Conference on Intelligent Computing, Shenzhen, China, 2021.
+Shuaiyang Cheng, __Liang Song*__, Jingjing Tang, Shihui Guo. Audio-Visual Salient Object Detection. International Conference on Intelligent Computing, Shenzhen, China, 2021.
 
-Tian Cai, Liang Song*, Guilin Li, Minghong Liao. Multi-Task Learning with Riemannian Optimization. International Conference on Intelligent Computing, Shenzhen, China, 2021.
+Tian Cai, __Liang Song*__, Guilin Li, Minghong Liao. Multi-Task Learning with Riemannian Optimization. International Conference on Intelligent Computing, Shenzhen, China, 2021.
 
-Shuaiyang Cheng, Xing Gao, Liang Song*, Jianbing Xiahou. Audio-Visual Saliency Network with Audio Attention Module. International Conference on Computer Engineering, Communication Technology and Smart System, Xi'an, China, 2021.
+Shuaiyang Cheng, Xing Gao, __Liang Song*__, Jianbing Xiahou. Audio-Visual Saliency Network with Audio Attention Module. International Conference on Computer Engineering, Communication Technology and Smart System, Xi'an, China, 2021.
 
-Tian Cai, Xing Gao, Liang Song*, Minghong Liao. The multi-task learning with an application of Pareto improvement. International Conference on Computing and Data Science, Stanford, USA, 2021.
+Tian Cai, Xing Gao, __Liang Song*__, Minghong Liao. The multi-task learning with an application of Pareto improvement. International Conference on Computing and Data Science, Stanford, USA, 2021.
 
-Liang Song, Haibin Chen, Hejiao Huang, Hongwei Du. Multi-echelon Vehicle Routing Problem in Sensor-Cloud Architecture with Mobile Sinks. The 6th International Symposium on Sensor-Cloud Systems, Nanjing, China, 2020.
+__Liang Song__, Haibin Chen, Hejiao Huang, Hongwei Du. Multi-echelon Vehicle Routing Problem in Sensor-Cloud Architecture with Mobile Sinks. The 6th International Symposium on Sensor-Cloud Systems, Nanjing, China, 2020.
 
-Liang Song, Chunyan Liu, Hejiao Huang, Hongwei Du, Xiaohua Jia. Minimum Connected Dominating Set Under Routing Cost Constraint in Wireless Sensor Networks With Different Transmission Ranges. IEEE/ACM Transactions on Networking, 2019, 27(2):546-559.
+__Liang Song__, Chunyan Liu, Hejiao Huang, Hongwei Du, Xiaohua Jia. Minimum Connected Dominating Set Under Routing Cost Constraint in Wireless Sensor Networks With Different Transmission Ranges. IEEE/ACM Transactions on Networking, 2019, 27(2):546-559.
 
-Liang Song, Hejiao Huang. The Euclidean Vehicle Routing Problem with Multiple Depots and Time Windows. The 11th Annual International Conference on Combinatorial Optimization and Applications, Shanghai, China, 2017: 449-456.
+__Liang Song__, Hejiao Huang. The Euclidean Vehicle Routing Problem with Multiple Depots and Time Windows. The 11th Annual International Conference on Combinatorial Optimization and Applications, Shanghai, China, 2017: 449-456.
 
-Liang Song, Hao Gu, Hejiao Huang. A lower bound for the adaptive two-echelon capacitated vehicle routing problem. Journal of Combinatorial Optimization, 2017, 33(4): 1145-1167.
+__Liang Song__, Hao Gu, Hejiao Huang. A lower bound for the adaptive two-echelon capacitated vehicle routing problem. Journal of Combinatorial Optimization, 2017, 33(4): 1145-1167.
 
-Liang Song, Hejiao Huang, Hongwei Du. Approximation schemes for Euclidean vehicle routing problems with time windows. Journal of Combinatorial Optimization, 2016, 32(4): 1217-1231.
+__Liang Song__, Hejiao Huang, Hongwei Du. Approximation schemes for Euclidean vehicle routing problems with time windows. Journal of Combinatorial Optimization, 2016, 32(4): 1217-1231.
 
-Xiaohan He, Xiaoli Zeng, Liang Song, Hejiao Huang, Hongwei Du. Solving Dynamic Vehicle Routing Problem with Soft Time Window by iLNS and hPSO. The 10th Annual International Conference on Combinatorial Optimization and Applications, Hong Kong, China, 2016: 702-709.
+Xiaohan He, Xiaoli Zeng, __Liang Song__, Hejiao Huang, Hongwei Du. Solving Dynamic Vehicle Routing Problem with Soft Time Window by iLNS and hPSO. The 10th Annual International Conference on Combinatorial Optimization and Applications, Hong Kong, China, 2016: 702-709.
 
-Dan Yang, Xiaohan He, Liang Song, Hejiao Huang, Hongwei Du. A Hybrid Large Neighborhood Search for Dynamic Vehicle Routing Problem with Time Deadline. The 9th Annual International Conference on Combinatorial Optimization and Applications, Houston, Texas, USA, 2015: 307-318.
+Dan Yang, Xiaohan He, __Liang Song__, Hejiao Huang, Hongwei Du. A Hybrid Large Neighborhood Search for Dynamic Vehicle Routing Problem with Time Deadline. The 9th Annual International Conference on Combinatorial Optimization and Applications, Houston, Texas, USA, 2015: 307-318.
 
-Liang Song, Haibin Chen, Hao Gu, Hejiao Huang, Hongwei Du. Set covering in fuel-considered vehicle routing problems. Theoretical Computer Science, 2015, 607(SI): 471-479.
+__Liang Song__, Haibin Chen, Hao Gu, Hejiao Huang, Hongwei Du. Set covering in fuel-considered vehicle routing problems. Theoretical Computer Science, 2015, 607(SI): 471-479.
 
-Liang Song, Hejiao Huang, Hongwei Du. A Quasi-polynomial Time Approximation Scheme for Euclidean CVRPTW. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 66-73.
+__Liang Song__, Hejiao Huang, Hongwei Du. A Quasi-polynomial Time Approximation Scheme for Euclidean CVRPTW. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 66-73.
 
-Hao Gu, Liang Song, Hejiao Huang, Hongwei Du. A Bicriteria Approximation Algorithm for DVRP with Time Windows. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 231-238.
+Hao Gu, __Liang Song__, Hejiao Huang, Hongwei Du. A Bicriteria Approximation Algorithm for DVRP with Time Windows. The 8th Annual International Conference on Combinatorial Optimization and Applications, Maui, Hawaii, USA, 2014: 231-238.
 
-Liang Song, Ronjiang Pan. A 3D Virtual Experiment Framework Based on X3D and ActiveX. International Conference on Audio, Language and Image Processing, Shanghai, China, 2010: 1035-1039.
+__Liang Song__, Ronjiang Pan. A 3D Virtual Experiment Framework Based on X3D and ActiveX. International Conference on Audio, Language and Image Processing, Shanghai, China, 2010: 1035-1039.
 
 # Selected Projects
 - "3D Outdoor Scence Reconstruction Based on UAV Vision", Natural Science Foundation Project of Xiamen, 2023.6-2025.6
