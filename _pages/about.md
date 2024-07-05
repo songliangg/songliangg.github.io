@@ -19,7 +19,7 @@ __Virtual Reality__ 🌈 _Welcome undergraduates and graduates to join our group
 
 Jining Chen, Linbo Liao, Yongxuan Lai*, __Liang Song__, Fan Yang. A Multi-agent Service Migration Algorithm for Mobile Edge Computing with Diversified Services. The 8th APWeb-WAIM International Joint Conference on Web and Big Data, 2024, Accepted.
 
-Hengda Li, Yinglin Zheng, Qifeng Dai, Jintai Wang, Liang Song, Ming Zeng∗. Multi-Modal Gait Recognition with Unidirectional Cross-modal Alignment. 2024 IEEE International Conference on Multimedia and Expo.
+Hengda Li, Yinglin Zheng, Qifeng Dai, Jintai Wang, __Liang Song__, Ming Zeng∗. Multi-Modal Gait Recognition with Unidirectional Cross-modal Alignment. 2024 IEEE International Conference on Multimedia and Expo, Accepted.
 
 Chunyan Liu, Chonglin Gu*, __Liang Song__, Yunlong, Zhao.  "TWS-based Path Planning of Multi-AGVs for Logistics Center Auto-Sorting". CCF Transactions on Pervasive Computing and Interaction, 2024, 6(2): 165-181.
 
