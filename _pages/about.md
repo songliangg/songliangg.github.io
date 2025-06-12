@@ -21,7 +21,7 @@ Tao Gong, Zihao Jian, Honghao Wu, Yongxuan Lai*, __Liang Song__. "MASR: Efficien
 
 Chuting Lin, Yumeng Qian, __Liang Song*__, Hanlun Wu, Liming Wang, Yongxuan Lai. "Ensemble Learning Prediction Based on Comprehensive Factors for Portfolio Optimization". International Conference on Neural Information Processing, Auckland, New Zealand, 2024, Accepted.
 
-Ziying Pan, Yongxuan Lai, Yi Fan, Yiling Huang, __Liang Song__, Fan Yang. "Temporal Coverage Optimization for Epoch-based Vehicular Crowdsensing Recruitment". IEEE International Conference on Parallel and Distributed Systems, Belgrade, Serbia, 2024: 374-381.
+Ziying Pan, Yongxuan Lai*, Yi Fan, Yiling Huang, __Liang Song__, Fan Yang. "Temporal Coverage Optimization for Epoch-based Vehicular Crowdsensing Recruitment". IEEE International Conference on Parallel and Distributed Systems, Belgrade, Serbia, 2024: 374-381.
 
 Jining Chen, Linbo Liao, Yongxuan Lai*, __Liang Song__, Fan Yang. "A Multi-agent Service Migration Algorithm for Mobile Edge Computing with Diversified Services". The 8th APWeb-WAIM International Joint Conference on Web and Big Data, 2024: 343–358.
 
