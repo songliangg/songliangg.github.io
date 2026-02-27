@@ -17,6 +17,14 @@ __Virtual Reality__ 🌈 _Welcome undergraduates and graduates to join our group
 
 # Publications
 
+__Liang Song__, Songsong Wu1, Yongxuan Lai1, Chunyan Liu3, Hejiao Huang*, Hongwei Du. "PTAS for Euclidean travelling salesman problem with soft time windows". Journal of Combinatorial Optimization 2026, 51. Article No. 13.
+
+__Liang Song__, Peiying Zeng, Yongxuan Lai*, Hui Huang, Bo Huang, Jun Tu. "Historical Mutual Information Multi-Level Trajectory Recovery Network for Recommendation". International Conference on Computers and Artificial Intelligence Technology, 2025, Huizhou, China, Accepted.
+
+__Liang Song__, Peiying Zeng, Yongxuan Lai*, Fuhua Fan, Wei Zhou, Fei Liu. "Human Trajectory Recovery Network Based on Trajectory-User Linking". International Conference on Computers and Artificial Intelligence Technology, 2025, Huizhou, China, Accepted.
+
+Feng He, Shuyue Lei, Pengxuan Yuan, Yongxuan Lai, __Liang Song*__. "RWA Optimization with Joint OSNR and SRLG Constraints in CDC-ROADM Optical Networks". International Conference on Computers and Artificial Intelligence Technology, 2025, Huizhou, China, Accepted.
+
 Tao Gong, Zihao Jian, Honghao Wu, Yongxuan Lai*, __Liang Song__. "MASR: Efficient Multi-Attention Network For Single Image Super-Resolution". International Conference on Neural Information Processing, Auckland, New Zealand, 2024, Accepted.
 
 Chuting Lin, Yumeng Qian, __Liang Song*__, Hanlun Wu, Liming Wang, Yongxuan Lai. "Ensemble Learning Prediction Based on Comprehensive Factors for Portfolio Optimization". International Conference on Neural Information Processing, Auckland, New Zealand, 2024, Accepted.
