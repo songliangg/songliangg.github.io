@@ -17,7 +17,7 @@ __Virtual Reality__ 🌈 _Welcome undergraduates and graduates to join our group
 
 # Publications
 
-__Liang Song__, Songsong Wu1, Yongxuan Lai1, Chunyan Liu3, Hejiao Huang*, Hongwei Du. "PTAS for Euclidean travelling salesman problem with soft time windows". Journal of Combinatorial Optimization 2026, 51. Article No. 13.
+__Liang Song__, Songsong Wu, Yongxuan Lai, Chunyan Liu, Hejiao Huang*, Hongwei Du. "PTAS for Euclidean travelling salesman problem with soft time windows". Journal of Combinatorial Optimization 2026, 51. Article No. 13.
 
 __Liang Song__, Peiying Zeng, Yongxuan Lai*, Hui Huang, Bo Huang, Jun Tu. "Historical Mutual Information Multi-Level Trajectory Recovery Network for Recommendation". International Conference on Computers and Artificial Intelligence Technology, 2025, Huizhou, China, Accepted.
 
