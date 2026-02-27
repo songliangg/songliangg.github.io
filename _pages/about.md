@@ -17,7 +17,7 @@ __Virtual Reality__ 🌈 _Welcome undergraduates and graduates to join our group
 
 # Publications
 
-__Liang Song__, Songsong Wu, Yongxuan Lai, Chunyan Liu, Hejiao Huang*, Hongwei Du. "PTAS for Euclidean travelling salesman problem with soft time windows". Journal of Combinatorial Optimization 2026, 51. Article No. 13.
+__Liang Song__, Songsong Wu, Yongxuan Lai, Chunyan Liu, Hejiao Huang*, Hongwei Du. "PTAS for Euclidean travelling salesman problem with soft time windows". Journal of Combinatorial Optimization 2026, 51: Article No. 13.
 
 __Liang Song__, Peiying Zeng, Yongxuan Lai*, Hui Huang, Bo Huang, Jun Tu. "Historical Mutual Information Multi-Level Trajectory Recovery Network for Recommendation". International Conference on Computers and Artificial Intelligence Technology, 2025, Huizhou, China, Accepted.
 
@@ -59,7 +59,7 @@ Tian Cai, Xing Gao, __Liang Song*__, Minghong Liao. "The multi-task learning wit
 
 __Liang Song__, Haibin Chen, Hejiao Huang*, Hongwei Du. "Multi-echelon Vehicle Routing Problem in Sensor-Cloud Architecture with Mobile Sinks". The 6th International Symposium on Sensor-Cloud Systems, Nanjing, China, 2020.
 
-__Liang Song__, Chunyan Liu, Hejiao Huang*, Hongwei Du, Xiaohua Jia. "Minimum Connected Dominating Set Under Routing Cost Constraint in Wireless Sensor Networks With Different Transmission Ranges". IEEE/ACM Transactions on Networking, 2019, 27(2):546-559.
+__Liang Song__, Chunyan Liu, Hejiao Huang*, Hongwei Du, Xiaohua Jia. "Minimum Connected Dominating Set Under Routing Cost Constraint in Wireless Sensor Networks With Different Transmission Ranges". IEEE/ACM Transactions on Networking, 2019, 27(2): 546-559.
 
 __Liang Song__, Hejiao Huang*. "The Euclidean Vehicle Routing Problem with Multiple Depots and Time Windows". The 11th Annual International Conference on Combinatorial Optimization and Applications, Shanghai, China, 2017: 449-456.
 
